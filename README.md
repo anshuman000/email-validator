@@ -1,10 +1,10 @@
 # Email Validator
 
-This project provides a Python-based email validator that checks whether an email address meets the minimum requirements based on RFC 5322 standards. The validator is implemented as a pure function, making it easy to test and integrate into other applications.
+This project provides a Python-based email validator that checks whether an email address meets common formatting requirements.
 
 ## Features
 
-- Validates email addresses according to a practical subset of RFC 5322.
+- Validates email addresses based on standard formatting rules.
 - Returns a clear result: `"Valid Email."` or `"Invalid Email."`.
 - Handles exceptions and non-string inputs gracefully.
 
